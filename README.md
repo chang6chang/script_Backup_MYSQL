@@ -4,6 +4,7 @@ Les tests ont ete realises en utilisant une machine Amazon EC2 basé sur Red Hat
 
 #Pré-requis
 - Installation de Mysql
+- Le dossier backup-d doit etre cree avant de lancer le script
 
 #Execution du script
 ```bash
