@@ -67,7 +67,7 @@ do
 	fi
 done
 
-#envoie de l'email si 50 tentatives ont echouees
+#envoie de l'email si 50 tentatives ont echoue
 if (( $i == 50 ))
 then
 
