@@ -11,7 +11,7 @@ if [ -n "$1" ] && [ -n "$2" ]; then
   	fi
   	
 else
-  echo "Veuillez spécifier tous les paramètres (user, host, et port si non spécifié port 22 qui sera utiliser )"
+  echo "Veuillez spécifier tous les parametres (user, host, et port si non specifie port 22 qui sera utiliser )"
   exit 0
 fi
 
